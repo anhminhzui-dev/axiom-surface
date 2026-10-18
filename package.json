@@ -1,0 +1,25 @@
+{
+  "name": "axiom-surface",
+  "version": "1.0.0",
+  "description": "Zero-dependency pure Node.js analytical rest-coordinate manifold PBR shading kernel",
+  "type": "module",
+  "main": "axiom-surface.js",
+  "scripts": {
+    "start": "node axiom-surface.js",
+    "test": "node axiom-surface.js"
+  },
+  "keywords": [
+    "differential-geometry",
+    "manifold-shading",
+    "triplanar",
+    "lookdev",
+    "pbr",
+    "zero-dependencies"
+  ],
+  "author": "Vo Ba Hoang Minh <minhhoang250803@gmail.com> (https://github.com/anhminhzui-dev)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anhminhzui-dev/axiom-surface.git"
+  }
+}
